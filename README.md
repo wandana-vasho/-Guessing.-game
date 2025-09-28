@@ -30,6 +30,7 @@ This project is beginner-friendly and demonstrates the use of:
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the Repository
+
 git clone https://github.com/your-username/number-guessing-game.git
 cd number-guessing-game
 python project.py
@@ -40,9 +41,3 @@ Is 7 too high (H), too low (L), or correct (C)? c
 yay! the computer guessed the number, 7, correctly!
 
 
-🎯 Learning Outcomes
-
-Using Python’s random module
-Handling user input with input()
-Building simple game logic
-Practicing loops and conditionals
